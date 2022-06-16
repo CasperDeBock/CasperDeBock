@@ -1,8 +1,13 @@
-### Hi there 👋
+### Hi I am Casper De Bock!
+<p>A bachelor student at <a href="https://hogent.be">College Ghent</a>, majoring in Web and App development.</p>
 
-- 🔭 I’m currently working on Gent Event, a page where you can see what's going on in Ghent
-- 🌱 I’m currently learning JS, NodeJS, React and Java
-- 📫 How to reach me: casper.debock@gmail.com
+```javascript
+const Casper = {
+  code: [Javascript, HTML, CSS, Java, C#],
+  tools: [React, Node],
+  working: "Currently creating an event website where everyone can see whats going on in Ghent!"
+}
+```
 <!--
 **CasperDeBock/CasperDeBock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
