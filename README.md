@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Gent Event, a page where you can see what's going on in Ghent
+- 🌱 I’m currently learning JS, NodeJS, React and Java
+- 📫 How to reach me: casper.debock@gmail.com
 <!--
 **CasperDeBock/CasperDeBock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
