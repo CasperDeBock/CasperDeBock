@@ -1,6 +1,6 @@
 ### Hi I am Casper De Bock!
 <p>A bachelor student at <a href="https://hogent.be">College Ghent</a>, majoring in Web and App development.</p>
-
+---
 ```javascript
 const Casper = {
   code: [Javascript, HTML, CSS, Java, C#, React, Express],
