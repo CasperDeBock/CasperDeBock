@@ -3,7 +3,7 @@
 
 ```javascript
 const Casper = {
-  code: ["Javascript", "HTML", "CSS", "Java", "C#", "React", "Express"],
+  code: ["Javascript", "HTML", "CSS", "Java", "C#", "React", "Express", "Spring Boot", "Figma", "MySQL"],
   tools: ["VS Code", "Node", "postman"],
   working: "Currently creating an event website where everyone can see whats going on in Ghent!"
 }
