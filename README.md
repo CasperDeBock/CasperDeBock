@@ -5,7 +5,7 @@
 const Casper = {
   code: ["Javascript", "HTML", "CSS", "Java", "C#", "React", "React Native", "Express", "Koa", "Spring Boot", "Figma", "MySQL", ".NET"],
   tools: ["VS Code", "Node", "Postman", "Visual Studio 2022", "MySQL Workbench", "SQL Server Management Studio", "Jira"],
-  working: "Currently developing 'Bocky' — my proprietary platform — catering to discerning clients seeking expertly crafted websites and applications tailored to their unique needs."
+  working: "Currently developing 'Zichtbaar Studio' — my proprietary platform — catering to discerning clients seeking expertly crafted websites and applications tailored to their unique needs."
 }
 ```
 <!--
